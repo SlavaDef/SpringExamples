@@ -1,4 +1,4 @@
-package com.goit12.testapp;
+package com.goit12.testapp.firstExamp;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;

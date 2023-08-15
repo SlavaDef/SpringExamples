@@ -1,8 +1,8 @@
-package com.goit12.testapp;
+package com.goit12.testapp.firstExamp;
 
+import com.goit12.testapp.firstExamp.ChildComponent;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @RequiredArgsConstructor // створює конструктор як знизу завдання анатоції проініцілізіювати всі файнал поля

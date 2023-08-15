@@ -1,4 +1,4 @@
-package com.goit12.testapp;
+package com.goit12.testapp.firstExamp;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
